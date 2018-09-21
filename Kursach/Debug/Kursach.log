@@ -1,0 +1,17 @@
+﻿  Source.cpp
+d:\курсовая\kursach\kursach\source.cpp(75): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\курсовая\kursach\kursach\source.cpp(675): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(832): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(834): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(835): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(837): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(838): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(840): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(841): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(843): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(844): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(846): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(847): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(849): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\kursach\kursach\source.cpp(746): warning C4715: Avtorisation: значение возвращается не при всех путях выполнения
+  Kursach.vcxproj -> D:\курсовая\Kursach\Debug\Kursach.exe
